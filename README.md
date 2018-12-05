@@ -1,2 +1,5 @@
 # Conway972_new
-test
+Visual made by Maxim
+[...] made by Daniel
+[...] made by Nikita
+[...] made by Ethan
